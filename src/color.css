@@ -1,0 +1,25 @@
+body{
+    color: burlywood;
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
+    border-radius:39px;
+    border-color: blue;
+    font-family: sans-serif;
+    
+
+}
+button
+   {
+     border-color: brown;
+    font-size: 40px;
+    color: black;
+    
+
+ 
+
+    background-color: violet;
+
+}
+button{
+    text-align: right;
+}
